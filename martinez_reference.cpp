@@ -10,7 +10,7 @@
 
 using namespace std;
 
-// **********************************************************
+// ***********************************************************
 void sort(int& numA, int& numB, int& numC);
 // Summary: Sorts three numbers in increasing order.
 // Precondition: Three int values are passed by reference. The values
